@@ -17,3 +17,6 @@ python main.py
 
 
 wget to download dataset 
+
+
+this is intial set up by me 
